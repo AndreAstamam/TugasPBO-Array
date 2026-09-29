@@ -3,6 +3,8 @@ Tugas Array - Sistem Bank
 Nama: Andre Astamam
 NIM: F1D02410103
 
+![SS Hasil Program](image.png)
+
 1. Deklarasi dan Inisialisasi Array
 Letak pada Kode:
 Array digunakan di dua tempat. Pada kelas Bank ada private Customer[] customers = new Customer[5]; untuk menyimpan objek nasabah. Pada kelas Customer ada private Account[] accounts = new Account[5]; untuk menyimpan objek rekening. Kedua array ini berisi objek (bukan tipe primitif), dan ukurannya tetap yaitu 5. Artinya, satu bank hanya bisa menampung maksimal 5 nasabah, dan satu nasabah hanya bisa punya maksimal 5 rekening.
